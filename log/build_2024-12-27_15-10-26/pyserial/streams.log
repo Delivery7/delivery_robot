@@ -1,0 +1,55 @@
+[1.067s] Invoking command in '/home/bobby/dev_ws/src/pyserial': PYTHONPATH=/home/bobby/dev_ws/build/pyserial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pyserial build --build-base /home/bobby/dev_ws/build/pyserial/build install --record /home/bobby/dev_ws/build/pyserial/install.log --install-scripts $base/lib/pyserial --single-version-externally-managed install_data
+[1.273s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.274s]   warnings.warn(
+[1.282s] running egg_info
+[1.282s] creating ../../build/pyserial/pyserial.egg-info
+[1.285s] writing ../../build/pyserial/pyserial.egg-info/PKG-INFO
+[1.286s] writing dependency_links to ../../build/pyserial/pyserial.egg-info/dependency_links.txt
+[1.286s] writing entry points to ../../build/pyserial/pyserial.egg-info/entry_points.txt
+[1.286s] writing requirements to ../../build/pyserial/pyserial.egg-info/requires.txt
+[1.286s] writing top-level names to ../../build/pyserial/pyserial.egg-info/top_level.txt
+[1.286s] writing manifest file '../../build/pyserial/pyserial.egg-info/SOURCES.txt'
+[1.287s] reading manifest file '../../build/pyserial/pyserial.egg-info/SOURCES.txt'
+[1.287s] writing manifest file '../../build/pyserial/pyserial.egg-info/SOURCES.txt'
+[1.287s] running build
+[1.287s] running build_py
+[1.288s] creating /home/bobby/dev_ws/build/pyserial/build
+[1.289s] creating /home/bobby/dev_ws/build/pyserial/build/lib
+[1.289s] creating /home/bobby/dev_ws/build/pyserial/build/lib/pyserial
+[1.293s] copying pyserial/__init__.py -> /home/bobby/dev_ws/build/pyserial/build/lib/pyserial
+[1.294s] copying pyserial/serialcoba.py -> /home/bobby/dev_ws/build/pyserial/build/lib/pyserial
+[1.294s] copying pyserial/coba1.py -> /home/bobby/dev_ws/build/pyserial/build/lib/pyserial
+[1.294s] copying pyserial/serialcoba1.py -> /home/bobby/dev_ws/build/pyserial/build/lib/pyserial
+[1.294s] copying pyserial/motor_control_node.py -> /home/bobby/dev_ws/build/pyserial/build/lib/pyserial
+[1.294s] copying pyserial/coba.py -> /home/bobby/dev_ws/build/pyserial/build/lib/pyserial
+[1.295s] copying pyserial/bobserial.py -> /home/bobby/dev_ws/build/pyserial/build/lib/pyserial
+[1.295s] running install
+[1.295s] running install_lib
+[1.295s] creating /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial
+[1.295s] copying /home/bobby/dev_ws/build/pyserial/build/lib/pyserial/__init__.py -> /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial
+[1.295s] copying /home/bobby/dev_ws/build/pyserial/build/lib/pyserial/serialcoba.py -> /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial
+[1.295s] copying /home/bobby/dev_ws/build/pyserial/build/lib/pyserial/coba1.py -> /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial
+[1.295s] copying /home/bobby/dev_ws/build/pyserial/build/lib/pyserial/serialcoba1.py -> /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial
+[1.296s] copying /home/bobby/dev_ws/build/pyserial/build/lib/pyserial/motor_control_node.py -> /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial
+[1.297s] copying /home/bobby/dev_ws/build/pyserial/build/lib/pyserial/coba.py -> /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial
+[1.297s] copying /home/bobby/dev_ws/build/pyserial/build/lib/pyserial/bobserial.py -> /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial
+[1.297s] byte-compiling /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial/__init__.py to __init__.cpython-310.pyc
+[1.297s] byte-compiling /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial/serialcoba.py to serialcoba.cpython-310.pyc
+[1.297s] byte-compiling /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial/coba1.py to coba1.cpython-310.pyc
+[1.298s] byte-compiling /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial/serialcoba1.py to serialcoba1.cpython-310.pyc
+[1.298s] byte-compiling /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial/motor_control_node.py to motor_control_node.cpython-310.pyc
+[1.298s] byte-compiling /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial/coba.py to coba.cpython-310.pyc
+[1.299s] byte-compiling /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial/bobserial.py to bobserial.cpython-310.pyc
+[1.299s] running install_data
+[1.299s] creating /home/bobby/dev_ws/install/pyserial/share/ament_index
+[1.299s] creating /home/bobby/dev_ws/install/pyserial/share/ament_index/resource_index
+[1.299s] creating /home/bobby/dev_ws/install/pyserial/share/ament_index/resource_index/packages
+[1.299s] copying resource/pyserial -> /home/bobby/dev_ws/install/pyserial/share/ament_index/resource_index/packages
+[1.299s] copying package.xml -> /home/bobby/dev_ws/install/pyserial/share/pyserial
+[1.299s] running install_egg_info
+[1.299s] Copying ../../build/pyserial/pyserial.egg-info to /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial-0.0.1-py3.10.egg-info
+[1.299s] running install_scripts
+[1.322s] Installing coba1 script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+[1.322s] Installing motor_control_node script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+[1.322s] writing list of installed files to '/home/bobby/dev_ws/build/pyserial/install.log'
+[1.359s] Invoked command in '/home/bobby/dev_ws/src/pyserial' returned '0': PYTHONPATH=/home/bobby/dev_ws/build/pyserial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pyserial build --build-base /home/bobby/dev_ws/build/pyserial/build install --record /home/bobby/dev_ws/build/pyserial/install.log --install-scripts $base/lib/pyserial --single-version-externally-managed install_data

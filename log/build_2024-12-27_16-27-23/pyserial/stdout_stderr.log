@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing pyserial.egg-info/PKG-INFO
+writing dependency_links to pyserial.egg-info/dependency_links.txt
+writing entry points to pyserial.egg-info/entry_points.txt
+writing requirements to pyserial.egg-info/requires.txt
+writing top-level names to pyserial.egg-info/top_level.txt
+reading manifest file 'pyserial.egg-info/SOURCES.txt'
+writing manifest file 'pyserial.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial.egg-link (link to .)
+Installing coba1 script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+Installing motor_control_node script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+
+Installed /home/bobby/dev_ws/build/pyserial
+running symlink_data
+symbolically linking /home/bobby/dev_ws/build/pyserial/resource/pyserial -> /home/bobby/dev_ws/install/pyserial/share/ament_index/resource_index/packages
+symbolically linking /home/bobby/dev_ws/build/pyserial/package.xml -> /home/bobby/dev_ws/install/pyserial/share/pyserial

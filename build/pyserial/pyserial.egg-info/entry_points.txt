@@ -1,0 +1,4 @@
+[console_scripts]
+coba1 = pyserial.coba1:main
+motor_control_node = pyserial.motor_control_node:main
+

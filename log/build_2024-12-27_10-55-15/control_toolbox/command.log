@@ -1,0 +1,2 @@
+Invoking command in '/home/bobby/dev_ws/build/control_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/bobby/dev_ws/src/control_toolbox -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bobby/dev_ws/install/control_toolbox
+Invoked command in '/home/bobby/dev_ws/build/control_toolbox' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/bobby/dev_ws/src/control_toolbox -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bobby/dev_ws/install/control_toolbox

@@ -1,0 +1,18 @@
+[1.473s] Invoking command in '/home/bobby/dev_ws/build/pyserial': PYTHONPATH=/home/bobby/dev_ws/build/pyserial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bobby/dev_ws/build/pyserial/build --no-deps symlink_data
+[1.897s] running develop
+[2.147s] running egg_info
+[2.148s] writing pyserial.egg-info/PKG-INFO
+[2.149s] writing dependency_links to pyserial.egg-info/dependency_links.txt
+[2.150s] writing entry points to pyserial.egg-info/entry_points.txt
+[2.150s] writing requirements to pyserial.egg-info/requires.txt
+[2.151s] writing top-level names to pyserial.egg-info/top_level.txt
+[2.153s] reading manifest file 'pyserial.egg-info/SOURCES.txt'
+[2.154s] writing manifest file 'pyserial.egg-info/SOURCES.txt'
+[2.161s] running build_ext
+[2.164s] Creating /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial.egg-link (link to .)
+[2.166s] Installing coba1 script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+[2.166s] Installing motor_control_node script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+[2.166s] 
+[2.166s] Installed /home/bobby/dev_ws/build/pyserial
+[2.166s] running symlink_data
+[2.245s] Invoked command in '/home/bobby/dev_ws/build/pyserial' returned '0': PYTHONPATH=/home/bobby/dev_ws/build/pyserial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bobby/dev_ws/build/pyserial/build --no-deps symlink_data

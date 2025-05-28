@@ -1,0 +1,20 @@
+[0.937s] Invoking command in '/home/bobby/dev_ws/build/pyserial': PYTHONPATH=/home/bobby/dev_ws/build/pyserial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bobby/dev_ws/build/pyserial/build --no-deps symlink_data --force
+[1.127s] running develop
+[1.237s] running egg_info
+[1.237s] writing pyserial.egg-info/PKG-INFO
+[1.239s] writing dependency_links to pyserial.egg-info/dependency_links.txt
+[1.239s] writing entry points to pyserial.egg-info/entry_points.txt
+[1.239s] writing requirements to pyserial.egg-info/requires.txt
+[1.239s] writing top-level names to pyserial.egg-info/top_level.txt
+[1.240s] reading manifest file 'pyserial.egg-info/SOURCES.txt'
+[1.241s] writing manifest file 'pyserial.egg-info/SOURCES.txt'
+[1.243s] running build_ext
+[1.243s] Creating /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial.egg-link (link to .)
+[1.244s] Installing coba1 script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+[1.244s] Installing motor_control_node script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+[1.244s] 
+[1.244s] Installed /home/bobby/dev_ws/build/pyserial
+[1.244s] running symlink_data
+[1.245s] symbolically linking /home/bobby/dev_ws/build/pyserial/resource/pyserial -> /home/bobby/dev_ws/install/pyserial/share/ament_index/resource_index/packages
+[1.245s] symbolically linking /home/bobby/dev_ws/build/pyserial/package.xml -> /home/bobby/dev_ws/install/pyserial/share/pyserial
+[1.294s] Invoked command in '/home/bobby/dev_ws/build/pyserial' returned '0': PYTHONPATH=/home/bobby/dev_ws/build/pyserial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bobby/dev_ws/build/pyserial/build --no-deps symlink_data --force

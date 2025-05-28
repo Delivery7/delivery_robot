@@ -1,0 +1,4 @@
+Invoking command in '/home/bobby/dev_ws/build/delivery_robot': /usr/bin/cmake --build /home/bobby/dev_ws/build/delivery_robot -- -j4 -l4
+Invoked command in '/home/bobby/dev_ws/build/delivery_robot' returned '0': /usr/bin/cmake --build /home/bobby/dev_ws/build/delivery_robot -- -j4 -l4
+Invoking command in '/home/bobby/dev_ws/build/delivery_robot': /usr/bin/cmake --install /home/bobby/dev_ws/build/delivery_robot
+Invoked command in '/home/bobby/dev_ws/build/delivery_robot' returned '0': /usr/bin/cmake --install /home/bobby/dev_ws/build/delivery_robot

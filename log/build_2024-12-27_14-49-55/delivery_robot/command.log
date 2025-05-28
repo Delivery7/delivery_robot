@@ -1,0 +1,6 @@
+Invoking command in '/home/bobby/dev_ws/build/delivery_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/bobby/dev_ws/src/delivery_robot -DCMAKE_INSTALL_PREFIX=/home/bobby/dev_ws/install/delivery_robot
+Invoked command in '/home/bobby/dev_ws/build/delivery_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/bobby/dev_ws/src/delivery_robot -DCMAKE_INSTALL_PREFIX=/home/bobby/dev_ws/install/delivery_robot
+Invoking command in '/home/bobby/dev_ws/build/delivery_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bobby/dev_ws/build/delivery_robot -- -j4 -l4
+Invoked command in '/home/bobby/dev_ws/build/delivery_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bobby/dev_ws/build/delivery_robot -- -j4 -l4
+Invoking command in '/home/bobby/dev_ws/build/delivery_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/bobby/dev_ws/build/delivery_robot
+Invoked command in '/home/bobby/dev_ws/build/delivery_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/bobby/dev_ws/build/delivery_robot

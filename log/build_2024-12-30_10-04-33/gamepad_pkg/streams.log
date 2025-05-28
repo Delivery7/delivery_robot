@@ -1,0 +1,19 @@
+[0.825s] Invoking command in '/home/bobby/dev_ws/build/gamepad_pkg': PYTHONPATH=/home/bobby/dev_ws/build/gamepad_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/gamepad_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bobby/dev_ws/build/gamepad_pkg/build --no-deps symlink_data --force
+[1.003s] running develop
+[1.107s] running egg_info
+[1.107s] writing gamepad_pkg.egg-info/PKG-INFO
+[1.107s] writing dependency_links to gamepad_pkg.egg-info/dependency_links.txt
+[1.107s] writing entry points to gamepad_pkg.egg-info/entry_points.txt
+[1.107s] writing requirements to gamepad_pkg.egg-info/requires.txt
+[1.107s] writing top-level names to gamepad_pkg.egg-info/top_level.txt
+[1.109s] reading manifest file 'gamepad_pkg.egg-info/SOURCES.txt'
+[1.110s] writing manifest file 'gamepad_pkg.egg-info/SOURCES.txt'
+[1.110s] running build_ext
+[1.111s] Creating /home/bobby/dev_ws/install/gamepad_pkg/lib/python3.10/site-packages/gamepad-pkg.egg-link (link to .)
+[1.111s] Installing gamepad_testing script to /home/bobby/dev_ws/install/gamepad_pkg/lib/gamepad_pkg
+[1.111s] 
+[1.111s] Installed /home/bobby/dev_ws/build/gamepad_pkg
+[1.112s] running symlink_data
+[1.112s] symbolically linking /home/bobby/dev_ws/build/gamepad_pkg/resource/gamepad_pkg -> /home/bobby/dev_ws/install/gamepad_pkg/share/ament_index/resource_index/packages
+[1.112s] symbolically linking /home/bobby/dev_ws/build/gamepad_pkg/package.xml -> /home/bobby/dev_ws/install/gamepad_pkg/share/gamepad_pkg
+[1.143s] Invoked command in '/home/bobby/dev_ws/build/gamepad_pkg' returned '0': PYTHONPATH=/home/bobby/dev_ws/build/gamepad_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/gamepad_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bobby/dev_ws/build/gamepad_pkg/build --no-deps symlink_data --force

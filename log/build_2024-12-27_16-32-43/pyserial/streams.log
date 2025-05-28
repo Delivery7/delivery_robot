@@ -1,0 +1,22 @@
+[0.857s] Invoking command in '/home/bobby/dev_ws/src/pyserial': PYTHONPATH=/home/bobby/dev_ws/build/pyserial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pyserial build --build-base /home/bobby/dev_ws/build/pyserial/build install --record /home/bobby/dev_ws/build/pyserial/install.log --single-version-externally-managed install_data
+[1.056s] running egg_info
+[1.057s] writing ../../build/pyserial/pyserial.egg-info/PKG-INFO
+[1.058s] writing dependency_links to ../../build/pyserial/pyserial.egg-info/dependency_links.txt
+[1.059s] writing entry points to ../../build/pyserial/pyserial.egg-info/entry_points.txt
+[1.059s] writing requirements to ../../build/pyserial/pyserial.egg-info/requires.txt
+[1.059s] writing top-level names to ../../build/pyserial/pyserial.egg-info/top_level.txt
+[1.060s] reading manifest file '../../build/pyserial/pyserial.egg-info/SOURCES.txt'
+[1.061s] writing manifest file '../../build/pyserial/pyserial.egg-info/SOURCES.txt'
+[1.061s] running build
+[1.061s] running build_py
+[1.062s] running install
+[1.063s] running install_lib
+[1.064s] running install_data
+[1.064s] running install_egg_info
+[1.066s] removing '/home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial-0.0.1-py3.10.egg-info' (and everything under it)
+[1.066s] Copying ../../build/pyserial/pyserial.egg-info to /home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages/pyserial-0.0.1-py3.10.egg-info
+[1.066s] running install_scripts
+[1.083s] Installing coba1 script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+[1.083s] Installing motor_control_node script to /home/bobby/dev_ws/install/pyserial/lib/pyserial
+[1.084s] writing list of installed files to '/home/bobby/dev_ws/build/pyserial/install.log'
+[1.109s] Invoked command in '/home/bobby/dev_ws/src/pyserial' returned '0': PYTHONPATH=/home/bobby/dev_ws/build/pyserial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/pyserial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pyserial build --build-base /home/bobby/dev_ws/build/pyserial/build install --record /home/bobby/dev_ws/build/pyserial/install.log --single-version-externally-managed install_data

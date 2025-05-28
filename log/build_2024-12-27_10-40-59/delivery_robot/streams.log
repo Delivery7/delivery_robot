@@ -1,0 +1,9 @@
+[0.008s] Invoking command in '/home/bobby/dev_ws/build/delivery_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bobby/dev_ws/build/delivery_robot -- -j4 -l4
+[0.021s] [31mCMake Error at CMakeLists.txt:2 (projecmake_minimum_required):
+[0.021s]   Unknown CMake command "projecmake_minimum_required".
+[0.021s] 
+[0.021s] [0m
+[0.021s] -- Configuring incomplete, errors occurred!
+[0.021s] See also "/home/bobby/dev_ws/build/delivery_robot/CMakeFiles/CMakeOutput.log".
+[0.022s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.024s] Invoked command in '/home/bobby/dev_ws/build/delivery_robot' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/bobby/dev_ws/build/delivery_robot -- -j4 -l4

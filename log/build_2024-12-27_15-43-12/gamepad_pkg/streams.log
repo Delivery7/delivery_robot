@@ -1,0 +1,22 @@
+[0.775s] Invoking command in '/home/bobby/dev_ws/src/gamepad_pkg': PYTHONPATH=/home/bobby/dev_ws/build/gamepad_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/gamepad_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gamepad_pkg build --build-base /home/bobby/dev_ws/build/gamepad_pkg/build install --record /home/bobby/dev_ws/build/gamepad_pkg/install.log --single-version-externally-managed install_data
+[0.954s] running egg_info
+[0.954s] writing ../../build/gamepad_pkg/gamepad_pkg.egg-info/PKG-INFO
+[0.955s] writing dependency_links to ../../build/gamepad_pkg/gamepad_pkg.egg-info/dependency_links.txt
+[0.955s] writing entry points to ../../build/gamepad_pkg/gamepad_pkg.egg-info/entry_points.txt
+[0.955s] writing requirements to ../../build/gamepad_pkg/gamepad_pkg.egg-info/requires.txt
+[0.955s] writing top-level names to ../../build/gamepad_pkg/gamepad_pkg.egg-info/top_level.txt
+[0.956s] reading manifest file '../../build/gamepad_pkg/gamepad_pkg.egg-info/SOURCES.txt'
+[0.957s] adding license file 'LICENSE'
+[0.957s] writing manifest file '../../build/gamepad_pkg/gamepad_pkg.egg-info/SOURCES.txt'
+[0.957s] running build
+[0.957s] running build_py
+[0.958s] running install
+[0.958s] running install_lib
+[0.959s] running install_data
+[0.959s] running install_egg_info
+[0.960s] removing '/home/bobby/dev_ws/install/gamepad_pkg/lib/python3.10/site-packages/gamepad_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.961s] Copying ../../build/gamepad_pkg/gamepad_pkg.egg-info to /home/bobby/dev_ws/install/gamepad_pkg/lib/python3.10/site-packages/gamepad_pkg-0.0.0-py3.10.egg-info
+[0.961s] running install_scripts
+[0.978s] Installing gamepad_testing script to /home/bobby/dev_ws/install/gamepad_pkg/lib/gamepad_pkg
+[0.979s] writing list of installed files to '/home/bobby/dev_ws/build/gamepad_pkg/install.log'
+[1.005s] Invoked command in '/home/bobby/dev_ws/src/gamepad_pkg' returned '0': PYTHONPATH=/home/bobby/dev_ws/build/gamepad_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bobby/dev_ws/install/gamepad_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/gamepad_pkg build --build-base /home/bobby/dev_ws/build/gamepad_pkg/build install --record /home/bobby/dev_ws/build/gamepad_pkg/install.log --single-version-externally-managed install_data
